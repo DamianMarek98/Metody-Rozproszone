@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\deny\desktop\studia\iv sem\przetwarzanie rozproszone\lab\listadwukierunkowa\main.cpp(187): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\deny\desktop\studia\iv sem\przetwarzanie rozproszone\lab\listadwukierunkowa\main.cpp(187): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\deny\desktop\studia\iv sem\przetwarzanie rozproszone\lab\listadwukierunkowa\main.cpp(187): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\deny\desktop\studia\iv sem\przetwarzanie rozproszone\lab\listadwukierunkowa\main.cpp(187): note: this argument is used as a buffer size
+c:\users\deny\desktop\studia\iv sem\przetwarzanie rozproszone\lab\listadwukierunkowa\main.cpp(202): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\deny\desktop\studia\iv sem\przetwarzanie rozproszone\lab\listadwukierunkowa\main.cpp(202): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\deny\desktop\studia\iv sem\przetwarzanie rozproszone\lab\listadwukierunkowa\main.cpp(202): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\deny\desktop\studia\iv sem\przetwarzanie rozproszone\lab\listadwukierunkowa\main.cpp(202): note: this argument is used as a buffer size
+  ListaDwukierunkowa.vcxproj -> C:\Users\Deny\Desktop\Studia\IV Sem\Przetwarzanie rozproszone\Lab\Debug\ListaDwukierunkowa.exe
