@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\zmddd\desktop\studia\semestr iv\pr\lab5\main.c(9): warning C4005: "TEXT": ponowna definicja makra
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winnt.h(584): note: zobacz poprzednią definicję „TEXT”
+c:\users\zmddd\desktop\studia\semestr iv\pr\lab5\main.c(101): warning C4047: "==": "int" różni się w poziomach operatorów pośrednich od "HWND"
+c:\users\zmddd\desktop\studia\semestr iv\pr\lab5\main.c(103): warning C4047: "=": "HWND" różni się w poziomach operatorów pośrednich od "WORD"
+c:\users\zmddd\desktop\studia\semestr iv\pr\lab5\main.c(133): warning C4028: formalny parametr 2 różni się od deklaracji
+c:\users\zmddd\desktop\studia\semestr iv\pr\lab5\main.c(133): warning C4028: formalny parametr 3 różni się od deklaracji
+  lab5.vcxproj -> C:\Users\zmddd\Desktop\Studia\Semestr IV\PR\lab5\Debug\lab5.exe
